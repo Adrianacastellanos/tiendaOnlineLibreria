@@ -3,26 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8163b74f-0fb1-4f5d-9436-02736f9a486b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/FRANKENSTEIN.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/FRANKENSTEIN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/elBaileDelAhorcado.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elBaileDelAhorcado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/elBosque.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elBosque.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/elTesoroDeLosDesconocidos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elTesoroDeLosDesconocidos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/elogioDeLaDuda.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elogioDeLaDuda.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/encuentroConLasLetras.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/encuentroConLasLetras.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/entreDosOctubres.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/entreDosOctubres.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/esparta.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/esparta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/estio.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/estio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/extranjeroBodasVeranoCartaUnAmigoAleman.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/extranjeroBodasVeranoCartaUnAmigoAleman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/gravityFalls.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/gravityFalls.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/historiaDelTIempo.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/historiaDelTIempo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/hombreRebelde.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/hombreRebelde.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/ilse.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/ilse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/imperioLobos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/imperioLobos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/increiblesDinos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/increiblesDinos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/laJorobaDeLaBestia.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/laJorobaDeLaBestia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/laJunglaDelAsfalto.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/laJunglaDelAsfalto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/laMaquinaDeLosSuenos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/laMaquinaDeLosSuenos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libro/lasGrandesPreguntasDeLosNinos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/lasGrandesPreguntasDeLosNinos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/aEsteLadoDelParaiso.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/aEsteLadoDelParaiso.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +53,7 @@
       <updated>1603673621119</updated>
       <workItem from="1603673623626" duration="24853000" />
       <workItem from="1603734938615" duration="23391000" />
-      <workItem from="1603788304153" duration="3153000" />
+      <workItem from="1603788304153" duration="4986000" />
     </task>
     <servers />
   </component>
