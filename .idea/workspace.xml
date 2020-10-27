@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8163b74f-0fb1-4f5d-9436-02736f9a486b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Formulario_de_Eventos_y_Servicios_Bancarios_Directos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/calendarview.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles/nova.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/calendarview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jotform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/protoplus-ui-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/protoplus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/autoFill.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-1.8.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/json2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libro/1984.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/1984.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/aEsteLadoDelParaiso.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/aEsteLadoDelParaiso.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/adexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/adexe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/angelesEntreMiDedos.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/angelesEntreMiDedos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/bionico.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/bionico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/buenosPadres.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/buenosPadres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/cincoHeridas.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/cincoHeridas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/contigoHastaFinal.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/contigoHastaFinal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/corazonFuego.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/corazonFuego.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/corazonIndomable.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/corazonIndomable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/cuadernoVacaciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/cuadernoVacaciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/curiosoCasoDeBenjamin.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/curiosoCasoDeBenjamin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/detectiveCross.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/detectiveCross.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/elArteDeEscuchar.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elArteDeEscuchar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro/elAsEnElManga.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/elAsEnElManga.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603673621119</updated>
       <workItem from="1603673623626" duration="24853000" />
-      <workItem from="1603734938615" duration="22859000" />
+      <workItem from="1603734938615" duration="23391000" />
+      <workItem from="1603788304153" duration="1698000" />
     </task>
     <servers />
   </component>

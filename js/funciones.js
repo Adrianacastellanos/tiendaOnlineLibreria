@@ -1,5 +1,5 @@
 
-var price_int = 0;
+var price_float = 0;
 function computePrice() {
     var els = document.getElementsByTagName('span');
 
@@ -14,7 +14,7 @@ function computePrice() {
         }
     }
     price = price.replace('$','');  // Delete $.
-    price_int += parseFloat(price); // Just add the price.
+    price_float += parseFloat(price); // Just add the price.
 }
 
 var amount = 0;
@@ -23,12 +23,12 @@ function buy() {
     document.getElementById("amount").innerHTML = amount;
 
     computePrice();
-    document.getElementById("price").innerHTML = price_int;
+    document.getElementById("price").innerHTML = price_float;
 }
 
 function vaciarCarrito() {
     document.getElementById("amount").innerHTML = "0";
     document.getElementById("price").innerHTML = "0";
     amount = 0;
-    price_int = 0;
+    price_float = 0;
 }
