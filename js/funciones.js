@@ -26,3 +26,9 @@ function buy() {
     document.getElementById("price").innerHTML = price_int;
 }
 
+function vaciarCarrito() {
+    document.getElementById("amount").innerHTML = "0";
+    document.getElementById("price").innerHTML = "0";
+    amount = 0;
+    price_int = 0;
+}
