@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8163b74f-0fb1-4f5d-9436-02736f9a486b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Formulario_de_Eventos_y_Servicios_Bancarios_Directos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/calendarview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles/nova.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/calendarview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jotform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/protoplus-ui-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/protoplus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/autoFill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-1.8.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/json2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libro/1984.html" beforeDir="false" afterPath="$PROJECT_DIR$/libro/1984.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,11 +39,15 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jOSPKxHp8rY6isID3o5Sjva4AS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -49,12 +65,15 @@
       <option name="presentableId" value="Default" />
       <updated>1603673621119</updated>
       <workItem from="1603673623626" duration="24853000" />
-      <workItem from="1603734938615" duration="19679000" />
+      <workItem from="1603734938615" duration="22859000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="101" width="1616" height="911" key="CommitChangelistDialog2" timestamp="1603767253183">
@@ -69,6 +88,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="764" y="27" width="391" height="1053" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1603765282352" />
+    <state x="741" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603782709942">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="741" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1603782709942" />
     <state x="1010" y="196" width="672" height="678" key="search.everywhere.popup" timestamp="1603765527279">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
