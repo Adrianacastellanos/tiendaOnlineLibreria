@@ -1,4 +1,27 @@
 
+var libros = [
+    {
+        "title"  : "el niño en la cima de la montaña",
+        "author" : "John Boyne"
+    },
+    {
+        "title"  : "extranjero , el/bodas, el verano, carga a un amigo aleman",
+        "author" : "CAMUS ALBERT"
+    },
+    {
+        "title"  : "mexico esclavizado",
+        "author" : "martin moreno"
+    }
+]
+
+function search() {
+    alert("que pedo");
+    for(var i = 0; i < libros.length; i++) {
+        var item = libros[i];
+        console.log(item.title);
+    }
+}
+
 var price_float = 0;
 function computePrice() {
     var els = document.getElementsByTagName('span');
