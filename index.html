@@ -31,6 +31,7 @@
 <link rel="stylesheet" type="text/css" href="js/typeahead/typeahead.css" />
 <link type="image/x-icon" rel="shortcut icon" href="images/favicon.ico">
 
+<script type="text/javascript" src="../js/funciones.js"></script>
 
 <script type="text/javascript" src="js/instafeed.min.js"></script>
 </head>
@@ -48,7 +49,7 @@
 		                <form id="busqueda">
 		                    <input type="hidden" name="tipoBus" id="tipoBus" value="full" />
 		                    <input id="autocompleta" class="search-text" type="text" name="palabrasBusqueda" placeholder="Tutulo, Autor"/>
-		                    <button class="btntwo search" title="Buscar" type="submit"><i class="fa fa-search"></i></button>
+		                    <button onclick="search()" class="btntwo search" title="Buscar" type="submit"><i class="fa fa-search"></i></button>
 		                </form>
 		            </div>
 				</div>
