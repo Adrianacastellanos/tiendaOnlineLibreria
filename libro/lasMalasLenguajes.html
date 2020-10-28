@@ -28,6 +28,26 @@
     <link type="image/x-icon" rel="shortcut icon" href="../images/favicon.ico">
 
     <script type="text/javascript" src="../js/instafeed.min.js"></script>
+
+    <script type="text/javascript" src="../js/funciones.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/estilos.css"/>
+
+    <!-- Agregamos la librería jQuery (Importante)-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <!-- Agregamos la librería Simple Cart (recuerda apuntar a la librería Simple Cart)-->
+    <script src="js/simpleCart.min.js"></script>
+    <!-- Código JS de inicialización  -->
+    <script>
+
+        $(document).ready(function($) {
+            /* Función jQuery para el evento clic en la etiqueta "x" con la clase (.carrito-total)*/
+            $('.carrito-total').click(function() {
+                //Mostrar los items del carrito
+                $('.bolsa').slideToggle();
+            });
+
+        });
+    </script>
 </head>
 
 <body class="page-detalle">
@@ -42,6 +62,20 @@
                             <input id="autocompleta" class="search-text" type="text" name="palabrasBusqueda" placeholder="Titulo, Autor"/>
                             <button class="btntwo search" title="Buscar"><i class="fa fa-search"></i></button>
                         </form>
+                    </div>
+
+                    <div class="carrito">
+                        <p class="carrito-total">
+                            <span id="amount" class="simpleCart_quantity">0</span> item(s) $<span id="price" class="simpleCart_total">0.00</span>
+                        </p>
+
+                        <div class="bolsa">
+                            <div class="simpleCart_items"></div>
+                            <div class="opciones">
+                                <a class="boton simpleCart_empty" onclick="vaciarCarrito()" href="javascript:void(0)">Vaciar carrito</a>
+                                <a class="boton simpleCart_checkout" href="../Formulario_de_Eventos_y_Servicios_Bancarios_Directos.html" target="_blank">Checkout</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -67,7 +101,7 @@
             <div itemscope="" >
                 <div class="fichaDetalle">
                     <div id="detimg">
-                        <img itemprop="image" id="detportada" src="../imagenes/9786075/978607527502.jpg"" title="Malas Lenguas" alt="Malas Lenguas" />
+                        <img itemprop="image" id="detportada" src="../imagenes/9786075/978607527502.jpg" title="Malas Lenguas" alt="Malas Lenguas" />
                         <div class="wraper_idm"></div>
                         <div class="wraper_ebook"></div>
                     </div>
@@ -98,7 +132,7 @@
                             </div>
                         </div>
 
-                        <a id="botonComprar" class="btn buy" title="Anadir  al carrito de compras">Anadir al carrito <span class="icon icon-basket"></span></a>
+                        <a id="botonComprar" onclick="buy()" class="btn buy" title="Anadir  al carrito de compras">Anadir al carrito <span class="icon icon-basket"></span></a>
                     </div>
                 </div>
 
